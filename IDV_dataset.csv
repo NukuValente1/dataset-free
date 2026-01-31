@@ -1,0 +1,21 @@
+﻿IDP-ID;Name;Department/Group;Owner;Deputy;Description/Purpose;Technology;Storage Location;Data Type;System Connections (Source/Target);Users;Created On;Last Modified
+IDP-001;Sample Tracking Tool;Metabolomics Group;Group Lead;Researcher A;Tracking lab samples;Excel (Macros);\\xxx01\yyy\IDV\******.xlsx;personal data;"Source: LIMS; Target: CSV export";5 users;2024-03-15;2025-11-02
+IDP-002;Equipment Maintenance Planner;Facility/Technical;Tech Lead;Technician B;Maintenance scheduling;Access DB;\\xxx02\yyy\zzz\******.accdb;no personal data;"Source: inventory CSV; Target: PDF reports";6 users;2023-09-01;2025-09-22
+IDP-003;Travel Expense Transfer;Finance;Finance Officer;Deputy Finance;Transfer forms into SAP;Excel (Macros);SharePoint/xxx/yyy/IDV/*****.xlsx;financial/safety‑critical data;"Source: XLS forms; Target: SAP import";4 users;2024-01-10;2025-12-12
+IDP-004;Publication List;Proteomics Group;Group Coordinator;Researcher C;Maintain publication metadata;Python Script;OneDrive – xxxx/IDV/yyyy/;no personal data;"Source: PubMed; Target: Website";3 users;2022-05-05;2025-10-05
+IDP-005;Chemical Inventory;Safety Office;Safety Lead;Assistant D;Track chemicals;Excel (Macros);\\yyyy\xxxx\*****.xlsx;financial/safety‑critical data;"Source: deliveries; Target: safety reports";8 users;2023-03-20;2025-08-30
+IDP-006;Training Planner;Training Unit;Coordinator;Assistant;Plan internal trainings;Access;\\yyx\yyy\***.accdb;personal data;HR export -> PDFs;3 users;2024-04-08;2025-10-18
+IDP-007;Application Tracking;HR;Recruiting Officer;HR Assistant;Temporary storage for applications;Excel (Macros);SharePoint/yyy/xxx/zzz/IDV/*****.xlsx;personal data;Email -> HR system;5 users;2025-02-01;2025-12-01
+IDP-008;Project Budget Control;Finance;Controller;Analyst;Track budget vs. spending;Power BI;SharePoint/yyy/xxx/zzz/****.pbix;financial/safety‑critical data;SAP export -> Management reports;4 users;2024-06-01;2025-11-28
+IDP-009;Sample Data Consolidation;Metabolomics Group;Data Steward;Researcher E;Merge measurement data;R Script;OneDrive – yxyx)/IDV/tzzz/;research confidential data;MassSpec -> CSV;6 users;2023-11-12;2025-07-19
+IDP-010;Lab Reservation;Cell Biology;Lab Coordinator;Assistant F;Book equipment and rooms;Excel;\\zzzz\xxx\IDV\yyyy.xlsx;no personal data;Calendar export -> PDF;12 users;2022-09-07;2025-06-02
+IDP-011;Animal Facility Docs;Animal House;Facility Lead;Caretaker G;Documentation for animal studies;Access;\\yyyzz\yssd\****.accdb;special category data;System export -> audits;7 users;2024-02-14;2025-09-07
+IDP-012;Visiting Scholars Register;International Office;Coordinator;Assistant;Manage scholar data incl. visa;Excel (Macros);SharePoint/yyy/xxxx/IDV/*****.xlsx;personal data;Email/HR export -> Report;3 users;2024-03-03;2025-12-10
+IDP-013;Conference Abstracts;Biochemistry;Secretary;Researcher H;Collect abstracts for submission;Excel;OneDrive – xxxx/IDV/zzzz/;no personal data;Docs -> ZIP;10 users;2025-04-18;2025-05-30
+IDP-014;Risk Assessment Export;Safety;FASI;Deputy;Export hazard assessments;Python Script;\\yyyy\zzzz\xxxx\****/;financial/safety‑critical data;Tool -> Excel;4 users;2023-10-21;2025-08-01
+IDP-015;Equipment Log Merge;Central Lab;Lab Manager;Assistant I;Merge logbooks;Excel (Macros);SharePoint/xxx/yyyy/IDV/****.xlsx;no personal data;Paper/CSV -> PDF;9 users;2022-12-01;2025-10-29
+IDP-016;Research Data Sync;Bioinformatics;Data Manager;Researcher J;Sync ELN metadata;Python Script;\\xxx\yyy\zzz/;research confidential data;ELN -> CSV;5 users;2025-01-09;2025-11-06
+IDP-017;Material Shop;Central Services;Materials Lead;Assistant;Track issued materials;Access;\\xxx\yyy\***.accdb;no personal data;Deliveries -> CSV;6 users;2024-07-01;2025-09-16
+IDP-018;Privacy Training Records;Data Protection;DPO;Assistant;Track compliance trainings;Excel (Macros);SharePoint/xxx/yyy/IDV/***.xlsx;special category data;LMS -> Report;2 users;2023-12-05;2025-12-15
+IDP-019;Staffing Overview;HR;Recruiting Lead;Assistant;Overview of vacancies;Power BI;SharePoint/xxx/yyy/zzz/***.pbix;personal data;HR system -> Report;5 users;2024-11-11;2025-11-30
+IDP-020;Procurement Needs;Procurement;Head of Procurement;Clerk;Track purchase needs;Excel;\\xxx\yyy\***.xlsx;financial/safety‑critical data;Emails -> SAP;7 users;2024-08-23;2025-10-12
